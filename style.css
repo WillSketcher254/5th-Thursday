@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+
+}
+
+header{
+    color: #f39f3f;
+    background: #4b3301;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    height: 40px;
+    
+}
+body{
+    background: linear-gradient(90deg, rgb(253, 195, 195), rgb(255, 224, 158));
+}
+.head{
+    color: #499c11;
+    text-align: center;
+    padding: 5px;
+}
+.text{
+    color: #2a6802;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.2);    
+    margin: 20px;
+    border-radius: 20px;
+    border: 2px solid rgb(199, 199, 199);
+}
+.orders{
+    padding: 30px;
+    color: #2a6802;
+    background: rgba(255, 255, 255, 0.2);    
+    margin: 20px;
+    border-radius: 20px;
+    border: 2px solid rgb(199, 199, 199);
+}
+.payment{
+    padding: 30px;
+    color: #026863;
+    background: rgba(255, 255, 255, 0.2);    
+    margin: 20px;
+    border-radius: 20px;
+    border: 2px solid rgb(199, 199, 199);
+
+}
+.payment input{
+    border-radius: 10px;
+    text-align: center;
+    border: 0.5px solid white;
+}
+.payment button{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    border: 0.5px solid white;
+}
+.payment .image{
+    border-radius: 20px;
+    height: 100px;
+    padding: 0;
+    margin: 20px;
+}
